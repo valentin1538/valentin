@@ -1,0 +1,35 @@
+h1
+{
+    color: red;
+    font-size: 40px;
+    font-family: Impact;
+}
+
+h2
+{
+	color: yellow;
+	font-size: 30px;
+	font-family: Arial Black;
+}
+
+.salutations
+{
+	color: yellow;
+}
+
+p
+{
+	font-size: 14px;
+	font-family: Comic Sans MS;
+}
+
+body
+{
+	background-color: black;
+	color: white;
+}	
+
+.sites
+{
+	color: green;
+}	
